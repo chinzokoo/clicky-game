@@ -1,0 +1,18 @@
+.card {
+	
+    width: 200px;
+    height: 150px;
+    margin: 15px 45px;
+
+   }
+
+  img{
+  	border-radius: 100px;
+  	width: 260px;
+    height: 150px;
+  }
+  
+  div{
+  	background-color: blueviolet;
+  	
+  }
